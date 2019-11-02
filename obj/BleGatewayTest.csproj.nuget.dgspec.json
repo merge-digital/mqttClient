@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kotze\\OneDrive\\Development\\Visual Studio\\2019\\BleGatewayTest\\BleGatewayTest\\BleGatewayTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kotze\\OneDrive\\Development\\Visual Studio\\2019\\BleGatewayTest\\BleGatewayTest\\BleGatewayTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kotze\\OneDrive\\Development\\Visual Studio\\2019\\BleGatewayTest\\BleGatewayTest\\BleGatewayTest.csproj",
+        "projectName": "BleGatewayTest",
+        "projectPath": "C:\\Users\\kotze\\OneDrive\\Development\\Visual Studio\\2019\\BleGatewayTest\\BleGatewayTest\\BleGatewayTest.csproj",
+        "packagesPath": "C:\\Users\\kotze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kotze\\OneDrive\\Development\\Visual Studio\\2019\\BleGatewayTest\\BleGatewayTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kotze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "M2MqttDotnetCore": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

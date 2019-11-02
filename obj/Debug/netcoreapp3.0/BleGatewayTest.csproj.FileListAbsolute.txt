@@ -1,0 +1,16 @@
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.exe
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.csprojAssemblyReference.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.AssemblyInfoInputs.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.AssemblyInfo.cs
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.deps.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.runtimeconfig.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.runtimeconfig.dev.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\BleGatewayTest.pdb
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\RestSharp.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.csproj.CopyComplete
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\obj\Debug\netcoreapp3.0\BleGatewayTest.pdb
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\MQTTnet.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\BleGatewayTest\BleGatewayTest\bin\Debug\netcoreapp3.0\M2Mqtt.dll
