@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[1.0.8, )"
             },
+            "MessagePack": {
+              "target": "Package",
+              "version": "[1.8.74, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.6.10, )"
